@@ -11,6 +11,16 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		2492C0D42D847140008BFE59 /* Model */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2492C0D52D847153008BFE59 /* Reusable Components */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Reusable Components";
+			sourceTree = "<group>";
+		};
 		24DD9E942D83726B00822623 /* AppleFrameworks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = AppleFrameworks;
@@ -34,6 +44,8 @@
 			children = (
 				24DD9E942D83726B00822623 /* AppleFrameworks */,
 				24DD9E932D83726B00822623 /* Products */,
+				2492C0D42D847140008BFE59 /* Model */,
+				2492C0D52D847153008BFE59 /* Reusable Components */,
 			);
 			sourceTree = "<group>";
 		};
@@ -61,6 +73,8 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				2492C0D42D847140008BFE59 /* Model */,
+				2492C0D52D847153008BFE59 /* Reusable Components */,
 				24DD9E942D83726B00822623 /* AppleFrameworks */,
 			);
 			name = AppleFrameworks;
